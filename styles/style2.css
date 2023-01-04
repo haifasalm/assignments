@@ -1,0 +1,193 @@
+.a
+
+{
+
+    grid-area: a;
+
+    background-color: blue;
+
+}
+
+.b
+
+{
+
+    grid-area: b;
+
+    background-color: green;
+
+}
+
+.c
+
+{
+
+    display: flex;
+
+    grid-area: c;
+
+    background-color: orange;
+
+    justify-content: center;
+
+    align-items: center;
+
+   
+
+}
+
+.d
+
+{
+
+    grid-area: f;
+
+    background-color: skyblue;
+
+}
+
+.b1
+
+{
+
+    background-color: blue ;
+
+    padding: 5px;
+
+    margin-right: 10px;
+
+    margin-bottom: 10px;
+
+    margin-left: 10px;
+
+    margin-top: 10px;
+
+}
+
+.b2
+
+{
+
+    background-color: blue ;
+
+     padding: 5px;
+
+    margin-right: 10px;
+
+    margin-top: 10px;
+
+      margin-bottom: 10px;
+
+}
+
+.b3
+
+{
+
+    background-color: blue ;
+
+     padding: 5px;
+
+    margin-right: 10px;
+
+    margin-top: 10px;
+
+      margin-bottom: 10px;
+
+      margin-right: 50px;
+
+}
+
+.b4
+
+{
+
+    background-color: blue ;
+
+     padding: 5px;
+
+    margin-right: 10px;
+
+      margin-bottom: 10px;
+
+      margin-left: 10px;
+
+}
+
+.b5
+
+{
+
+    background-color: blue ;
+
+     padding: 5px;
+
+    margin-right: 10px;
+
+      margin-bottom: 10px;
+
+}
+
+.b6
+
+{
+
+    background-color: blue ;
+
+     padding: 5px;
+
+    margin-right: 10px;
+
+      margin-bottom: 10px;
+
+      margin-right: 50px;
+
+}
+
+.grid
+
+{
+
+    display: grid;
+
+    grid-template-areas:
+
+    'a a a a'
+
+    'b b b c'
+
+    'b b b c'
+
+    'f f f f';
+
+    gap: 5px;
+
+    background-color: green;
+
+
+
+}
+
+.grid div
+
+{
+
+    text-align: center;
+
+}
+
+.b{
+
+    display: grid;
+
+    grid-template-areas:
+
+    'g g g'
+
+    'g g g';
+
+}
+
+ 
+
+has context menu
