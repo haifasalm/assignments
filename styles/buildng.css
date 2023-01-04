@@ -1,0 +1,64 @@
+.container
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+.green
+{
+    
+    background-color: rgb(78, 218, 78);
+    height: 75vh;
+    width: 100vw;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+body
+{
+    margin: 0;
+}
+.blue
+{
+    background-color: rgb(30, 216, 216);
+    height: 25vh;
+    width: 100%;
+}
+.white
+{
+    background-color: white;
+    height:220px;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.smallgreen{
+    width:30px;
+    height:30px;
+background-color: rgb(5, 231, 62);
+border-radius: 7px;
+}
+.smallgreencont{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.largegreen{
+    width: 155px;
+    height: 40px;
+border-radius: 7px;
+
+background-color: rgb(5, 231, 62);
+    
+}
+.secondbuilding{
+    position: relative;
+
+}
