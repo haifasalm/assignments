@@ -1,0 +1,185 @@
+body
+{
+    background-color: white;
+
+}
+.container
+{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+}
+.rhinosauraus
+{
+    background-color: brown;
+    border-radius: .6rem;
+    height: 60px;
+    width: 110px;
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+}
+.elephant
+{
+    background-color: brown;
+    border-radius: .6rem;
+    height: 50px;
+    width:80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 12%;
+    right: 10%;
+}
+.iguana
+{
+    
+        background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 15%;
+        right: 20%;
+    
+}
+.tiger
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 10%;
+        right: 1%;
+}
+.leopard
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 1%;
+        right: 40%;
+}
+.fox
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 50%;
+        right: 50%;
+}
+.yak
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 5%;
+        right: 60%;
+}
+.giraffe
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 9%;
+        right: 68%;
+}
+.lion
+{
+    background-color: brown;
+        border-radius: .6rem;
+        height: 50px;
+        width:80px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 3%;
+        left: 1%;
+}
+.cat 
+{background-color: brown;
+    border-radius: .6rem;
+    height: 50px;
+    width:80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 15%;
+    left: 11%;
+
+}
+.tigeremoji{
+    position: absolute;
+    bottom: 12%;
+    right: 1%;
+}
+.yakemoji{
+    position: absolute;
+    top: 7%;
+    right: 61%;
+}
+.rhinoemoji
+{
+    position: absolute;
+    top: 1%;
+    right: 8%;
+}
+.elephemoji
+{
+    position: absolute;
+    top: 12%;
+    right: 15%;
+}
+.foxemoji
+{
+    position: absolute;
+        bottom: 52.5%;
+        right: 51%;
+}
